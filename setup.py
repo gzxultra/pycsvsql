@@ -1,10 +1,9 @@
 #!/usr/bin/env python
+# coding: utf-8
 
-import os
 import sys
 
 import setuptools
-
 
 PACKAGE_NAME = 'pycsvsql'
 MINIMUM_PYTHON_VERSION = '3.6'
@@ -26,8 +25,7 @@ check_python_version()
 
 setuptools.setup(
     name='pycsvsql',
-    version='0.0.1'
-
+    version='0.0.1',
     description="Python csvsql convertor.",
     url='https://github.com/gzxultra/pycsvsql',
     author='Zhixiang Gu',
