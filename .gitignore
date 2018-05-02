@@ -43,3 +43,7 @@ Icon*
 
 # Eclipse
 .settings
+
+# Data files
+*.db
+*.csv

@@ -49,5 +49,6 @@ setuptools.setup(
 
     install_requires=[
         "click ~= 6.0",
+        "peewee ~= 3.3.1",
     ]
 )
