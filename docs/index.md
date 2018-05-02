@@ -1,0 +1,3 @@
+# pycsvsql
+
+Python csvsql convertor.
