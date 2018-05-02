@@ -9,11 +9,11 @@ name = "pypi"
 
 click = "*"
 peewee = "*"
-pandas = "*"
 
 
 [dev-packages]
 
+pre-commit = "*"
 
 
 [requires]
